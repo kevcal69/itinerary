@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "status": "Trip member, wanderlust traveller"
+        }
+    },
+    {
+        "id": "2",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "status": "Trip member, wanderlust traveller"
+        }
+    },
+    {
+        "id": "3",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "status": "Trip member, wanderlust traveller"
+        }
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    },
+    {
+        "id": "4",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    },
+    {
+        "id": "5",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    },
+    {
+        "id": "6",
+        "title": "Experience Canada",
+        "description": "Trip To Iqaluit In Nunavut A Canadian Artic City",
+        "img": "/static/samplebg.jpg",
+        "user": {
+            "name": "Dua Lipa",
+            "avatar_url": "/static/avatar.jpg",
+            "rank": "3"
+        }
+    }
+
+]

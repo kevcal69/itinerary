@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    },
+    {
+        "id": "2",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    },
+    {
+        "id": "3",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    },
+    {
+        "id": "4",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    },
+    {
+        "id": "5",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    },
+    {
+        "id": "6",
+        "place": "Hong Kong, China",
+        "description": "We curate trips that matches your interest",
+        "img": "/static/samplebg.jpg"
+    }
+]
